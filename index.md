@@ -74,12 +74,12 @@ We would like to propose a workshop format to have the research results presente
 [09:30 – 09:40]  Welcome: Tomasz Kryjak, Andrea Pinna  
 [09:40 – 10:40]  Keynote: **Diana Göhringer**: Concepts and Realizations for Reconfigurable Domain-Specific Multiprocessor Systems-on-Chip  
 [10:40 – 10:50]  Short break  
-[10:50 – 11:10]  S1_1: Architecture of a Low Latency AVC Video Codec for robust ML based Image Classification, Benno Stabernack, **Fritjof Steinert** 
+[10:50 – 11:10]  S1_1: Architecture of a Low Latency AVC Video Codec for robust ML based Image Classification, Benno Stabernack, **Fritjof Steinert**   
 [11:10 – 11:30]  S1_2: Multiple Transform Selection concept modeling and implementation using Interface Based SDF graphs, **Naouel Haggui**, Fatma Belghith, Wassim Hamidouche, Nouri Masmoudi and Jean-François Nezan  
 [11:30 – 11:50] S1_3: Automotive perception system evaluation with reference data obtained by a UAV, **Krzysztof Blachut**, Michał Daniłowicz, Hubert Szolc, Mateusz Wasala, Tomasz Kryjak, Nikodem Pankiewicz and Mateusz Komorkiewicz  
 [11:50 – 12:00] Short break  
 [12:00 – 12:20] S2_1: Low-Power Sign-Magnitude FFT Design for FMCW Radar Signal Processing, **Oğuz Meteer** and Marco J. G. Bekooij  
-[12:20 – 12:40] S2_2: GEGELATI: Lightweight Artificial Intelligence through Generic and Evolvable Tangled Program Graphs, **Karol Desnos**, Nicolas Sourbier, Pierre-Yves Raumer, Olivier Gesny and Maxime Pelcat
+[12:20 – 12:40] S2_2: GEGELATI: Lightweight Artificial Intelligence through Generic and Evolvable Tangled Program Graphs, **Karol Desnos**, Nicolas Sourbier, Pierre-Yves Raumer, Olivier Gesny and Maxime Pelcat  
 [12:40 – 13:00] S2_3: Hardware-software implementation of the PointPillars network for 3D object detection in point clouds **Joanna Stanisz, Konrad Lis**, Tomasz Kryjak and Marek Gorgon  
 [13:00 – 14:00] Lunch  
 [14:00 – 14:45] HiPEAC Keynote  
